@@ -1,2 +1,4 @@
 We are learning Git.
 This is a new line.
+
+This was added using the feature-1 branch.
